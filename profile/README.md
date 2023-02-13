@@ -1,6 +1,6 @@
 #  AssemblyLine
 
-<img alt="AssemblyLine logo" src="https://user-images.githubusercontent.com/8750438/218519325-05f42ab4-1612-4999-b2e9-7597bee032da.png" width="256" height="256" align="right">
+<img alt="AssemblyLine logo" src="https://github.com/assemblyline-io/.github/raw/main/profile/assemblyline-icon.png" width="256" height="256" align="right">
 
 Run WebAssembly modules in the cloud, and connect API end-points to exported functions.
 
